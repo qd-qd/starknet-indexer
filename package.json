@@ -1,0 +1,17 @@
+{
+  "name": "starknet-indexer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apibara/protocol": "^0.3.0",
+    "@apibara/starknet": "^0.1.1"
+  }
+}
